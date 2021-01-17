@@ -25,6 +25,27 @@ unit of supplying customer 9 (who has a total demand of 30 tons according to the
           ┆       11       190 150 130 --  --  --  200 180 150 --  --  -- ┆
           ┆       12       200 180 150 --  --  --  100 80  50  50  60  100┆
           └---------------------------------------------------------------┘
+          
+          
+In addition, for every depot we have the following information: the fixed cost for constructing the depot
+that needs to be included into the objective function and its capacity limit, the quantities demanded by the
+sales centers (customers), are summarized in the following tables listed below.
+          ┌-----------------------------------------------------------------------------------┐
+          ┆ Depot    1     2     3      4     5     6     7     8     9     10     11    12   ┆
+          ┆ Cost     3,500 9,000 10,000 4,000 3,000 9,000 9,000 3,000 4,000 10,000 9,000 3,500┆
+          ┆ Capacity 300   250   100    180   275   300   200   220   270   250    230   180  ┆
+          └-----------------------------------------------------------------------------------┘
+
+
+          ┌-----------------------------------------------------┐
+          ┆  Customer 1   2  3  4   5   6   7  8  9  10  11  12 ┆
+          ┆  Demand   120 80 75 100 110 100 90 60 30 150 95 120 ┆
+          └-----------------------------------------------------┘
+
+
+In every case, the demand of a customer needs to be satisfied but a sales center may be delivered to from
+several depots. Which depots should be opened to minimize the total cost of construction and of delivery,
+whilst satisfying all demands? Propose a formulation for this problem. Solve the problem using Gurobi.
 
 
 

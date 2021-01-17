@@ -21,6 +21,8 @@ language skills and for his experience with different two-seat aircraft.
             
 A valid flight crew consists of two pilots that both have each at least 10/20 for the same language and
 10/20 on the same aircraft type.
+
  What is the maximum number pilots pair that can fly under this conditions? Formulate a mathematical
 model to solve this problem.
+
  Implement your solution in Gurobi.

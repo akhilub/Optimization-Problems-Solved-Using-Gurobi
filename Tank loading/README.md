@@ -10,7 +10,7 @@ Some of the tanks are already partially filled with a product.
 
 
       ┌---------------------------------------------------------------------------------------- -┐
-      ┆ Tank              1           2            3     4     5    6      7          8       9  ┆
+      ┆  Tank             1           2            3     4     5    6      7          8       9  ┆
       ┆  Capacity        500         400          400   600   600  900    800        800     800 ┆
       ┆  Current product  -    80-grade gasoline   -     -     -    -  lubricant      -       -  ┆
       ┆  Quantity        0           100           0     0     0    0     300         0       0  ┆

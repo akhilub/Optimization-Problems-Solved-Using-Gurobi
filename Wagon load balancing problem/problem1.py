@@ -1,5 +1,3 @@
-#Reference:-Demetrios Papazaharias(TA)
-
 import gurobipy as gp
 from gurobipy import GRB
 

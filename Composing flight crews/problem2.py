@@ -1,5 +1,3 @@
-#Reference: Dr.Jose L.Walteros
-
 import gurobipy as gp
 from gurobipy import GRB
 

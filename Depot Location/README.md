@@ -8,6 +8,8 @@ demand of each customer (sales center) from a depot (not the unit costs). So, fo
 unit of supplying customer 9 (who has a total demand of 30 tons according to the table) from depot 1 is $
 60,000/30, i.e. $2,000. Certain deliveries that are impossible are marked with the infinity symbol.
 
+
+
 Depot/Customer  1   2   3   4   5   6   7   8   9   10  11  12
 1               100 80  50  50  60  100 120 90  60  70  65  110
 2               120 90  60  70  65  110 140 110 80  80  75  130

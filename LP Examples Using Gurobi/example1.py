@@ -26,6 +26,6 @@ if m.status == GRB.status.OPTIMAL:
     m.write("example1.lp")
     m.write("example1.sol")
 elif m.status == GRB.status.INFEASIBLE:
-    m.computeIIS() # IIS tells you which constraints, when removed, makes the m feasible
+    m.computeIIS() # It tells you which constraints, when removed, makes the m feasible
     m.write('inf.ilp')
     

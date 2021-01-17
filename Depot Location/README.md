@@ -30,6 +30,8 @@ unit of supplying customer 9 (who has a total demand of 30 tons according to the
 In addition, for every depot we have the following information: the fixed cost for constructing the depot
 that needs to be included into the objective function and its capacity limit, the quantities demanded by the
 sales centers (customers), are summarized in the following tables listed below.
+
+
           ┌-----------------------------------------------------------------------------------┐
           ┆ Depot    1     2     3      4     5     6     7     8     9     10     11    12   ┆
           ┆ Cost     3,500 9,000 10,000 4,000 3,000 9,000 9,000 3,000 4,000 10,000 9,000 3,500┆

@@ -1,7 +1,12 @@
 Solves the problem:
+
+
 min c1*x + c2*y
+
 st  A1*x + A2*y <=b (m constraints)
+
     x binary n1-dimensional vector
+    
     y >=0 continuous n2-dimensional vector
     
     

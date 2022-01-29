@@ -19,5 +19,7 @@ For example, if the flight incoming from Bordeaux continues on to Berlin, 35 pas
 may stay on board during the stop at Paris. The flight from Nice arrives too late to be re-used
 on the connection to Berlin, the same is true for the flight from Toulouse that cannot be used for the
 destinations Berlin, Bern and Brussels (the corresponding entries in the table are marked with ‘–’).
+
+
 How should the arriving planes be re-used for the departing flights to minimize the number of passengers
 who have to change planes at Roissy?

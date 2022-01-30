@@ -4,8 +4,8 @@ In the optimal solution, 112 passengers stay on board their original plane. The 
 corresponding flight connections
 
               Optimal flight connections
-              **Plane arriving      continues to          Number of**
-              **from                destination           passengers**
+              **Plane arriving**      continues to          Number of**
+              **from**                destination           passengers**
               Bordeaux              London                 38
               Clermont-Ferrand      Bern                    8
               Marseille             Brussels               11

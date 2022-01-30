@@ -6,7 +6,7 @@ $ cont<sub>ij</sub> {= 1 if and only if the plane coming from i continues its jo
               
 The following LP represents the problem:
 
-\begin{pmatrix}
-  a & b\\ 
-  c & d
-\end{pmatrix}
+    \begin{pmatrix}
+      a & b\\ 
+      c & d
+    \end{pmatrix}

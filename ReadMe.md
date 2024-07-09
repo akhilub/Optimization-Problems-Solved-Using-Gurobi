@@ -38,7 +38,7 @@ The repository currently includes solutions for the following optimization probl
 - Traveling Salesman Problem
 - Vehicle Routing Problem
 - Facility Location Problem
-- ... (add more problems as you implement them)
+- ... (going to add more problems as I will implement them)
 
 ## Contributing
 
